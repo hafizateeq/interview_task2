@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "address": "Forsmannstrabe 5",
+    "postCode": "22303",
+    "propertyType": "Flat",
+    "numberOfRooms": "5",
+    "floorArea": "48"
+  },
+  {
+    "id": 2,
+    "address": "Steinstrabe 12",
+    "postCode": "20095",
+    "propertyType": "Terraced house",
+    "numberOfRooms": "7",
+    "floorArea": "63"
+  },
+  {
+    "id": 3,
+    "address": "Himmelstrabe 2",
+    "postCode": "22299",
+    "propertyType": "Semi-detached",
+    "numberOfRooms": "3",
+    "floorArea": "22"
+  },
+  {
+    "id": 4,
+    "address": "Alte Schleuse 23",
+    "postCode": "21107",
+    "propertyType": "Terraced house",
+    "numberOfRooms": "4",
+    "floorArea": "54"
+  }
+]
